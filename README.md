@@ -1,2 +1,2 @@
 # emergechestpain2
-Federated data analysis for the EMERGE Chest Pain Pt2-project 
+Federated data analysis for the EMERGE Chest Pain Part 2-project 
